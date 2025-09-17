@@ -23,7 +23,7 @@ JUnit tests are included in `NumberRangeSummarizerTest.java` covering:
 
 ## Usage
 - Open the project in any Java IDE (e.g., VS Code, IntelliJ, Eclipse)  
-- Run `NumberRangeSummarizerClass` from `src/main/java/numberrangesummarizer` to see jow provided interface was implemented
+- Run `NumberRangeSummarizerClass` from `src/main/java/numberrangesummarizer` to see how provided interface was implemented
 - Run tests in `NumberRangeSummarizerTest` from `src/test/java/numberrangesummarizer` to verify correctness  
 
 ---
